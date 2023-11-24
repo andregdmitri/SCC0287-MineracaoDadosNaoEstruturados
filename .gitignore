@@ -2,3 +2,4 @@ data/Test_submission
 data/Train_submission
 .ipynb_checkpoints/
 data/*
+formated_data/*
